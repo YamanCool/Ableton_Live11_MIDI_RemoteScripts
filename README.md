@@ -2,7 +2,7 @@
 
 Modified MackieControl Scripts for Ableton Live 11 optimized for iCon Platform M+/Platform D2
 
-See the manual for more information.
+See the Manual.pdf for more information.
 
 ### How to install:
 
