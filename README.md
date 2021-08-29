@@ -17,5 +17,5 @@ Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
 3. Place the unzipped remote script folder 'Platform_M' into the 'Remote Scripts' folder you just created.
 4. Launch Ableton Live.
 5. Open Live's Preferences → MIDI tab.
-6. Browse for the name of the remote script in the Control Surface dropdown.
+6. Browse for the name of the remote script 'Platform M' in the Control Surface dropdown.
 7. Assign the correct input and output ports.
