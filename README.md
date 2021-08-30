@@ -1,21 +1,32 @@
 # Ableton Live 11 MIDI RemoteScripts
 
-Modified MackieControl Scripts for Ableton Live 11 optimized for iCon Platform M+/Platform D2
+## Corrected MackieControl Scripts:
 
-See the Manual.pdf for more information.
+### Changes in 'ChannelStripController.py'
 
-### How to install:
+* Missing def 'handle_control_switch_ids' added
+* Renamed 'any_slider_is_touched' in 'any_fader_is_touched'
 
-1. Download the folder 'Platform_M'
+### Changes in 'const.py'
 
-2. Manually create a folder called 'Remote Scripts' within your User Library (if not yet present).
+* List 'channel_strip_control_switch_ids' corrected
 
-The default User Library location:
-Windows: \Users\[username]\Documents\Ableton\User Library
-Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
+### Changes in 'MackieControl.py'
 
-3. Place the unzipped remote script folder 'Platform_M' into the 'Remote Scripts' folder you just created.
-4. Launch Ableton Live.
-5. Open Live's Preferences → MIDI tab.
-6. Browse for the name of the remote script 'Platform M' in the Control Surface dropdown.
-7. Assign the correct input and output ports.
+* Def 'receive_midi' corrected
+
+### Changes in 'MainDisplayController.py'
+
+* Display test commented out
+
+### Changes in 'SoftwareController.py'
+
+* Missing def 'update_follow_song_button_led' added
+
+### Changes in 'Transport.py'
+
+* Def 'handle_user_foot_switch_ids' added
+* Cursor LEDs switching added
+* Zoom Button LEDs behaviour corrected
+* Def 'update_follow_song_button_led' deleted
+* Def 'toggle_follow' deleted
