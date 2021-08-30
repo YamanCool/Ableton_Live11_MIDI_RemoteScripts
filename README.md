@@ -2,7 +2,7 @@
 
 ### Corrected MackieControl Scripts:
 
-##### Changes in 'ChannelStripController.py'
+#### Changes in 'ChannelStripController.py'
 
 * Missing def 'handle_control_switch_ids' added
 * Renamed 'any_slider_is_touched' in 'any_fader_is_touched'
