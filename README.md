@@ -25,7 +25,7 @@
 
 #### Changes in 'Transport.py'
 
-* Def 'handle_user_foot_switch_ids' added: Foot switch A = Play, foot switch B = Record
+* Def 'handle_user_foot_switch_ids' added: foot switch A = Play, foot switch B = Record
 * Cursor LEDs switching added
 * Zoom Button LEDs behaviour corrected
 * Def 'update_follow_song_button_led' deleted
