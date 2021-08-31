@@ -1,6 +1,6 @@
 # Ableton Live 11 MIDI RemoteScripts for iCon Platform M+
 
-Modified and extended MackieControl Scripts for Ableton Live 11 optimized for iCon Platform M+/Platform D2
+Modified and extended MackieControl Scripts for Ableton Live 11 optimized for iCon Platform M+/Platform D2.
 You can use the scripts also with iCon Platform M+ without Platform D2 but without it the assignment functions for the display make no sense.
 
 See the Manual.pdf for more information and features.
