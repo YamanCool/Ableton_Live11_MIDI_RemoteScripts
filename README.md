@@ -1,4 +1,4 @@
-# Ableton Live 11 MIDI RemoteScripts
+# Ableton Live 11 MIDI RemoteScripts for iCon Platform M+
 
 Modified and extended MackieControl Scripts for Ableton Live 11 optimized for iCon Platform M+/Platform D2
 
