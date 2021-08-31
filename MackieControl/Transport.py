@@ -182,7 +182,7 @@ class Transport(MackieControlComponent):
             if value == BUTTON_PRESSED:
                 self.__toggle_record()
 
-    """ User Foot Switch A pressed """
+    """ User Foot Switch pressed """
     def handle_user_foot_switch_ids(self, switch_id, value):
         if switch_id == SID_USER_FOOT_SWITCHA:
             if value == BUTTON_PRESSED:
@@ -190,6 +190,9 @@ class Transport(MackieControlComponent):
                     self.__stop_song()
                 else:
                     self.__start_song()
+        if switch_id == SID_USER_FOOT_SWITCHB:
+            if value == BUTTON_PRESSED:
+                self.__toggle_record()
 
     def handle_jog_wheel_rotation(self, value):
         backwards = value >= 64
