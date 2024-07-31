@@ -24,9 +24,5 @@ Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
 
 # Ableton Live 12.1 Beta 
 
-1. Delete the old folder 'Platform_M' in the default User Library location:
-
-Windows: \Users\[username]\Documents\Ableton\User Library
-Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
-
-3. Download the folder 'Platform_M' again and install it again in default User Library location.
+1. Delete the old folder 'Platform_M' in the default User Library location.
+2. Download the folder 'Platform_M' again and install it again in default User Library location.
