@@ -21,3 +21,11 @@ Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
 5. Open Live's Preferences → MIDI tab.
 6. Browse for the name of the remote script 'Platform M' in the Control Surface dropdown.
 7. Assign the correct input and output ports.
+
+# Ableton Live 12.1 Beta 
+
+1. Delete the old folder 'Platform_M' in the default User Library location:
+Windows: \Users\[username]\Documents\Ableton\User Library
+Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
+
+2. Download the folder 'Platform_M' again and install it again in default User Library location.
