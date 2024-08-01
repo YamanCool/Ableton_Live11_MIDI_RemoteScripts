@@ -7,8 +7,8 @@
 2. Manually create a folder called 'Remote Scripts' within your User Library (if not yet present).
 
 The default User Library location:
-Windows: \Users\[username]\Documents\Ableton\User Library
 
+Windows: \Users\[username]\Documents\Ableton\User Library
 Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
 
 3. Place the unzipped remote script folder 'X_Touch_One' into the 'Remote Scripts' folder you just created.
