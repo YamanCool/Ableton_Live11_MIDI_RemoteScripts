@@ -22,7 +22,11 @@ Mac: Macintosh HD/Users/[username]/Music/Ableton/User Library
 6. Browse for the name of the remote script 'Platform M' in the Control Surface dropdown.
 7. Assign the correct input and output ports.
 
-# Ableton Live 12.1 Beta 
+# Ableton Live 12.1 Beta
+
+Ableton changed the Python version to 3.11
+
+In case you have previously used an older version of Ableton Live (11 or 12) with this script:
 
 1. Delete the old folder 'Platform_M' in the default User Library location.
 2. Download the folder 'Platform_M' and install it again in default User Library location.
